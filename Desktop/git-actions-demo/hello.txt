@@ -1,1 +1,2 @@
 Hello, Github actions!
+This is a new feature!
